@@ -1,0 +1,9 @@
+
+#Images
+test/
+train/
+valid/
+testimages/
+
+#Results
+runs/

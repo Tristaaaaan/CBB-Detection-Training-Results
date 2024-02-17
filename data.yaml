@@ -1,0 +1,13 @@
+train: "C:\\Users\\markt\\Desktop\\CBBDetection\\cbb\\train\\images"
+val: "C:\\Users\\markt\\Desktop\\CBBDetection\\cbb\\valid\\images"
+test: "C:\\Users\\markt\\Desktop\\CBBDetection\\cbb\\test\\images"
+
+nc: 3
+names: ['Entry Hole', 'Ripe', 'Unripe']
+
+roboflow:
+  workspace: chess-m1x7u
+  project: coffee-cherry-beans-detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/chess-m1x7u/coffee-cherry-beans-detection/dataset/2
